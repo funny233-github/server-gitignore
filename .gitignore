@@ -1,0 +1,13 @@
+*
+!.gitignore
+!config.yml
+
+!plugins/
+plugins/*
+!plugins/plugins.md
+
+!server/
+server/*
+!mods/
+mods/*
+!mods.md
